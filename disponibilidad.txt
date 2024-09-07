@@ -1,0 +1,7 @@
+tac 2
+hemograma_completo 7
+urianalisis 5
+perfil_lipidico 1
+perfil_renal 2
+pcr 18
+perfil_hepatico 3
